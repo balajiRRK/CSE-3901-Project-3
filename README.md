@@ -30,7 +30,6 @@ After submitting a recommendation as an instructor, you are also able to view pr
 
 ## How to Install and Run the App using Docker
 
-This app requires Ruby 3.2.0 or newer versions and Rails 7.1.3.4 or newer versions. 
 1. Clone the repo either through HTTPS or SSH
    - Through HTTPS: https://github.com/cse-3901-sharkey/2024-su-Team-3-Lab-3.git
    - Through SSH: git@github.com:cse-3901-sharkey/2024-su-Team-3-Lab-3.git
